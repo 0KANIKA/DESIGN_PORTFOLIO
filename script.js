@@ -3,7 +3,7 @@ const channels = [
   { id:'seasonal', number:'02', title:'Seasons.', subtitle:'Culture in motion', palette:'forest', drive:'https://drive.google.com/drive/folders/1ls8rf2-sN33l54S36Gb46x9Y7IEdA2ab', note:'Christmas · Onam · Pongal · Raksha Bandhan', featured:true },
   { id:'hackathon', number:'03', title:"MISSION '26", subtitle:'Enter another world.', palette:'bronze', drive:'https://drive.google.com/drive/folders/1odb8Lv8sJZlG4M_aK5MG5xAt5Hi2fNhp', note:'Branding · posters · event films' },
   { id:'merchandise', number:'04', title:'MERCHANDISE DESIGN.', subtitle:'Graphics beyond the screen.', palette:'teal', drive:'https://drive.google.com/drive/folders/1-a04_9KadGhErT3PTiWtJrccK9q7zGC7', note:'VITSION · illustrations · mockups' },
-  { id:'marketing', number:'05', title:'INDUSKILLER.', subtitle:'Mock startup marketing.', palette:'blue', drive:'https://drive.google.com/drive/folders/1Zd4KsDHALSZ6NRJ-UFK4TDBj7wGceu8d', note:'Promotional · informational · video ads', noteLabel:'MOCK STARTUP' },
+  { id:'marketing', number:'05', title:'MARKETING & ADVERTISING.', subtitle:'Creative campaigns & promotional design.', palette:'blue', drive:'https://drive.google.com/drive/folders/1Zd4KsDHALSZ6NRJ-UFK4TDBj7wGceu8d', note:'Promotional · informational · video ads', noteLabel:'MOCK STARTUP' },
   { id:'experimental', number:'06', title:'Outside the brief.', subtitle:'Personal visual experiments.', palette:'plum', drive:'https://drive.google.com/drive/folders/1LhivyonQJXVrUOdvkhHY6sCKiokkh46Q', note:'Typography · collage · editorial' }
 ];
 
