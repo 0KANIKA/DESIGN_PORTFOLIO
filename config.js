@@ -1,0 +1,1 @@
+/* No runtime configuration is required. Portfolio cards link directly to Google Drive. */
